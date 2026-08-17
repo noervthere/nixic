@@ -96,7 +96,7 @@ Or add it as a flake input and install declaratively:
 {
   inputs = {
     nixpkgs.url = "github:NixOS/nixpkgs/nixos-unstable";
-    nixic.url = "github:<you>/nixic";
+    nixic.url = "github:noervthere/nixic";
   };
 }
 ```
