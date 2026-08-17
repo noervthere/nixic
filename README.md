@@ -229,7 +229,7 @@ own within ~2 seconds.
 ---
 
 ## Roadmap
-
+- [ ] Last.fm support
 - [ ] SoundCloud support
 - [ ] Album / artist / playlist browsing views
 - [x] Nix flake (bundles mpv / yt-dlp / cava)
